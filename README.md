@@ -1,7 +1,7 @@
 # learn through testing
 
 ### swift
-Запуск через `swift test`
+Запуск через `swift test` в папке swift
 
 ### Python
 1. Зависимости

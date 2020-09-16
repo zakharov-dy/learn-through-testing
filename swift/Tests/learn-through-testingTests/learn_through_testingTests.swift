@@ -13,6 +13,6 @@ final class learn_through_testingTests: XCTestCase {
 
     static var allTests = [
         ("testExample", testExample),
-        ("testGreeter", testGreeter),
+        ("stringInterpolation", stringInterpolation),
     ]
 }
