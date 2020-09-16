@@ -1,0 +1,29 @@
+{
+  "name": "base-programming-tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha '**/**.test.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakharov-dy/learn_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "prettier": "1.17.1"
+  },
+  "bugs": {
+    "url": "https://github.com/zakharov-dy/learn_js/issues"
+  },
+  "homepage": "https://github.com/zakharov-dy/learn_js#readme",
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  }
+}
